@@ -90,4 +90,17 @@ nav {
     width: 200px;
     height: 100px;
   }
+
+  .background-container {
+    background-image: url('./curacao.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+  }
+
+  .text-white {
+    color: whitesmoke;
+  }
   
